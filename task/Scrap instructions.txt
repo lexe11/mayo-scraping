@@ -1,0 +1,23 @@
+Hello,
+
+I need to scrap all the Diseases and Conditions in the list here: https://www.mayoclinic.org/diseases-conditions/index?letter=A
+
+We need A-Z including #.
+
+Per page we need to scrap the Symptoms list, Causes, Risk factors.
+
+Only the titles in the list.
+
+
+
+Then you need to take the Disease name and search it in the website https://www.icd10data.com/ and serach the disease name with "" for example "Abdominal aortic aneurysm". It will give you a list - I need you to take only the 
+ICD-10-CM Diagnosis Code. For example, I71.3.
+
+
+For example, I took Abdominal aortic aneurysm
+https://www.mayoclinic.org/diseases-conditions/abdominal-aortic-aneurysm/symptoms-causes/syc-20350688
+
+and I put it in the attached excel file.
+This is the needed format. 
+
+Let me know if you have any questions.
